@@ -9,5 +9,5 @@ de los datos.
 Se adjuntan los siguientes ficheros:
 - Datos originales ('Datos' y 'Datos_Spain'
 - Código R para la limpieza, filtrado y análisis visual.
-- Datos filtrados y limpios ('Datos_final' y 'Datos_Spain_final').
+- Datos filtrados y limpios ('Datos_finales' y 'Datos_Spain_final').
 - PDF con la PEC3 de la asignatura.
