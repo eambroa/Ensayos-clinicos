@@ -7,6 +7,7 @@ El trabajo versa sobre la publicación de resultados de los ensayos clínicos re
 Se documenta el proceso de obtención de datos, así como su limpieza y filtrado. También se documenta las extracción de características 
 de los datos.
 Se adjuntan los siguientes ficheros:
-- Datos 
+- Datos originales ('Datos' y 'Datos_Spain'
 - Código R para la limpieza, filtrado y análisis visual.
+- Datos filtrados y limpios ('Datos_final' y 'Datos_Spain_final').
 - PDF con la PEC3 de la asignatura.
