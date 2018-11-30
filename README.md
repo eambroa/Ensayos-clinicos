@@ -1,4 +1,4 @@
-# No publicación de resultados de los ensayos-clínicos
+# No publicación de resultados de los ensayos clínicos
 
 PEC3 - Hilo argumental 
 
